@@ -18,7 +18,6 @@ export default function AppNavigator() {
         initialRouteName="Onboarding1"
         screenOptions={{
           headerShown: false,
-          animation: 'slide_from_right',
           contentStyle: { backgroundColor: '#0D1117' },
         }}
       >
